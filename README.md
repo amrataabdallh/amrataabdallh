@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amro Ata Abdallah</h1>
+<h1 align="center">Hi 👋, I'm Amrou Ata Abdallah</h1>
 <h1 align="center"> @amrataabdallh </h1>
 <h1 align="center"> 👀 I’m interested in web development</h1>
 <h1 align="center">🌱 I’m currently learning Reactjs & Next.js & SQL </h1>
