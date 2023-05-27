@@ -3,7 +3,7 @@
 <h1 align="center"> 👀 I’m interested in web development</h1>
 <h1 align="center">🌱 I’m currently working with Reactjs & Next.js & SQL </h1>
 <h1 align="center">💞️ I look forward to cooperating on any opportunity for improvement </h1>
-<h1 align="center">📫 How to reach me by whatsApp or phone number +971529438526 or email : amrataabdallh@gmail.com </h1>
+<h1 align="center">📫 How to reach me by email : amrataabdallh@gmail.com </h1>
 <h3 align="center">Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrataabdallh&label=Profile%20views&color=0e75b6&style=flat" alt="amrataabdallh" /> </p>
