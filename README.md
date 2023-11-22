@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Amrou Ata Abdallah</h1>
-<h1 align="center"> @amrataabdallh </h1>
-<h1 align="center"> 👀 I’m interested in web development</h1>
-<h1 align="center">🌱 I’m currently working with Reactjs & Next.js & SQL </h1>
-<h1 align="center">💞️ I look forward to cooperating on any opportunity for improvement </h1>
-<h1 align="center">📫 How to reach me by email : amrataabdallh@gmail.com </h1>
-<h3 align="center">Frontend Developer</h3>
+<h1 align="center">Greetings! 👋 I'm Amrou Ata Abdallah</h1>
+<h1 align="center">Catch me on GitHub: @amrataabdallh 🚀</h1>
+<h1 align="center">Passionate about crafting the web experience</h1>
+<h1 align="center">🌐 Currently immersed in the realms of React.js, Next.js, and Node.js</h1>
+<h1 align="center">💡 Enthusiastically seeking opportunities to innovate and collaborate</h1>
+<h1 align="center">📧 Reach out via email: amrataabdallh@gmail.com</h1>
+<h3 align="center">Frontend Maestro 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrataabdallh&label=Profile%20views&color=0e75b6&style=flat" alt="amrataabdallh" /> </p>
 
@@ -12,21 +12,21 @@
 
 <p align="left"> <a href="https://twitter.com/3mr_ata" target="blank"><img src="https://img.shields.io/twitter/follow/3mr_ata?logo=twitter&style=for-the-badge" alt="3mr_ata" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
+🚀 Embarking on a journey with Next.js and Nodejs to elevate my coding prowess.
 
-- 👨‍💻 All of my projects are available at [portfolio.amr-ata.com](portfolio.amr-ata.com)
+💻 Dive into the realm of my creations at portfolio.amr-ata.com.
 
-- 📝 I regularly write articles on [blog.amr-ata.com](blog.amr-ata.com)
+✍️ Explore the depths of technology through my articles at blog.amr-ata.com.
 
-- 💬 Ask me about **HTMLm CSS, JS, ReactJs, Next.js**
+💬 Engage me in conversations spanning HTML, CSS, JS, ReactJs, Next.js and Nodejs.
 
-- 📫 How to reach me **amrataabdallh@gmail.com**
+📧 Drop a line at amrataabdallh@gmail.com to connect.
 
-- 📄 Know about my experiences [cv.amr-ata.com](cv.amr-ata.com)
+📃 Unearth my professional ventures at cv.amr-ata.com.
 
-- ⚡ Fun fact **Coding will soon be as important as reading**
+⚡ Fun Fact: Predicting the future - Coding will soon be as fundamental as reading. 🌐
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Embark on a journey with me:</h3>
 <p align="left">
 <a href="https://codepen.io/amr_ata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amr_ata" height="30" width="40" /></a>
 <a href="https://dev.to/amrataabdallh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="amrataabdallh" height="30" width="40" /></a>
