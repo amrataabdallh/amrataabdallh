@@ -1,6 +1,6 @@
 
 
-<img src="https://www.michaelpage.com.hk/sites/michaelpage.com.hk/files/2022-05/Software%20Developer.jpg" width="1500" height="300" alt="Amou Ata"  />
+<img src="https://miro.medium.com/v2/resize:fit:1024/1*FMHXLDuMOrdIcTsRCs5BLg.png" width="1500" height="300" alt="Amou Ata"  />
 <h1 align="center">Greetings! 👋 I'm Amrou Ata Abdallah</h1>
 <h1 align="center">Catch me on GitHub: @amrataabdallh 🚀</h1>
 <h1 align="center">Passionate about crafting the web experience</h1>
